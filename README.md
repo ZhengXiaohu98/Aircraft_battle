@@ -1,6 +1,6 @@
 # Aircraft_battle
 
-**Aircraft battle** is a simple game implemented with C++ language, it uses the graphics.h library provided with easyX.
+**Aircraft battle** is a simple game implemented with C++ language, it uses the graphics.h library provided by easyX.
 
 Submitted by: **Xiaohu Zheng**
 
