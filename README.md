@@ -7,7 +7,7 @@ Submitted by: **Xiaohu Zheng**
 Time spent: **3** days in total
 
 The following functionality is completed:
-* [x] Player/enemy plane are moveable
+* [x] Player/enemy plane are movable
 * [x] Player's plane can shoot bullets when spot enemy planes, bullet can hit enemy plane
 * [x] Player's plane can crash the enemy planes, and enemy plane will be destroyed.
 
