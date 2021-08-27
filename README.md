@@ -4,7 +4,7 @@
 
 Submitted by: **Xiaohu Zheng**
 
-Time spent: **2** 3 days
+Time spent: **3** days in total
 
 The following functionality is completed:
 * [x] Player/enemy plane are moveable
